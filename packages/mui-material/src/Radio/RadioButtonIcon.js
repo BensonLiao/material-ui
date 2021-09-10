@@ -4,7 +4,7 @@ import RadioButtonUncheckedIcon from '../internal/svg-icons/RadioButtonUnchecked
 import RadioButtonCheckedIcon from '../internal/svg-icons/RadioButtonChecked';
 import styled from '../styles/styled';
 
-const RadioButtonIconRoot = styled('span')({
+const RadioButtonIconRoot = styled('label')({
   position: 'relative',
   display: 'flex',
 });
